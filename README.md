@@ -6,7 +6,7 @@ Orientador: Prof. Titular Dr. Luis Carlos Paschoarelli.
 
 Este script é parte de um dos métodos usados na tese de Doutorado "Elementos estéticos no Design Automotivo e sua influência na percepção do usuário: uma análise do ponto de vista do repertório pessoal", apresentada ao Programa de Pós-Graduação em Design da Faculdade de Arquitetura Artes e Comunicação – UNESP – Campus Bauru, como parte dos requisitos para obtenção do título de Doutor em Design. 
 
-Usado para análise estatística e elaboração de gráficos dos dados obtidos por meio do método RGT (Repertory Grid Technique), este script utiliza o pacote OpenRepGrid, na linguagem R, disponível gratuitamente em https://docu.openrepgrid.org/ (HECKMANN, 2016).
+Usado para análise estatística e elaboração de gráficos dos dados obtidos por meio do método RGT (Repertory Grid Technique), este script utiliza o pacote OpenRepGrid, na linguagem R, disponível gratuitamente em https://docs.openrepgrid.org/ (HECKMANN, 2016).
 
 Também estão disponíveis no presente repositório as planilhas em formato Excel (.xlsx) com os dados anonimizados dos usuários considerados "Especialistas" e "Não-especialistas" participantes da pesquisa. Há duas versões de cada arquivo, pois algumas visualizações não permitem a acentuação de palavras.
 
